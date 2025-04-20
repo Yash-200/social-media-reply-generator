@@ -23,7 +23,7 @@ RUN touch social_replies.db && \
 # Set environment variables
 ENV GROQ_API_KEY="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"
 ENV DATABASE_URL="sqlite:///./social_replies.db"
-ENV MODEL_NAME="llama3-8b-8192"
+ENV MODEL_NAME="llama-3.3-70b-versatile"
 
 # Expose the port
 EXPOSE 8000
