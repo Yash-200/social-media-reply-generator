@@ -17,7 +17,7 @@
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Yash-200/social-media-reply-generator
 cd social-media-reply-generator
 ```
 
